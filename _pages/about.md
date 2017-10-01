@@ -1,15 +1,15 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
+title: <strong>Timothy</strong>Hibbard
 description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
+    <p>233 S. Kedzie</p>
+    <p> your address street</p>
     <p>Your City, State 12345</p>
 
 news: true
