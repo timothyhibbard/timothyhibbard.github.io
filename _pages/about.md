@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   address: >
     <p>233 S. Kedzie</p>
-    <p> your address street</p>
+    <p> hibbard6@msu.edu</p>
     <p>Your City, State 12345</p>
 
 news: true
