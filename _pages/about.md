@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Timothy</strong>Hibbard
-description: <a href="">Department of Political Science</a>. Michigan State University
+description: <a href="">Ph.D. Student</a>. Department of Political Science</a>. Michigan State University
 
 profile:
   align: right
@@ -14,8 +14,6 @@ profile:
 news: false
 social: true
 ---
-
-I am a PhD Student in the Department of Political Science at Michigan State University.
 
 My research interests are concentrated around gender and minority politics in legislative and judicial settings. Currently I am working on a project examining gendered panel effects on federal three-judge panels using a new measure of persuasion. A working draft can be found on the APSA conference website [here](https://convention2.allacademic.com/one/apsa/apsa17/index.php?cmd=Online+Program+View+Paper&selected_paper_id=1246509&PHPSESSID=8st79g8ic5rr4ioo1sskmja1s4).
 
