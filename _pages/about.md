@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Timothy</strong>Hibbard
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="">Department of Political Science</a>. Michigan State University
 
 profile:
   align: right
@@ -10,14 +10,13 @@ profile:
   address: >
     <p>233 S. Kedzie</p>
     <p> hibbard6@msu.edu</p>
-    <p>Your City, State 12345</p>
 
-news: true
+news: false
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+# I am a PhD Student in the Department of Political Science at Michigan State University.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests are concentrated around gender and minority politics in legislative and judicial settings. Currently I am working on a project examining gendered panel effects on federal three-judge panels using a new measure of persuasion. A working draft can be found on the APSA conference website [here](https://convention2.allacademic.com/one/apsa/apsa17/index.php?cmd=Online+Program+View+Paper&selected_paper_id=1246509&PHPSESSID=8st79g8ic5rr4ioo1sskmja1s4).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I earned my BS in Poltical Science at Boise state University as a [McNair Scholar](https://mcnairscholars.com/about/). Prior to my undergrad, I served five years on active duty in the United States Navy attached to to the USS Abraham Lincoln (CVN-72) for 4 of those years, the other year I was attached to a Joint Service command in Ramadi (8 months) and Balad (4 months), Iraq.
