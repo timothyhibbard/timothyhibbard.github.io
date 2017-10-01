@@ -10,7 +10,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
 url:  timothyhibbard.github.io
-baseurl: timothyhibbard.com # should be empty
+baseurl: # should be empty
 last_updated: # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
