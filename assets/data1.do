@@ -1,18 +1,14 @@
 clear
-use /Users/timothyhibbard/Desktop/Research/JudgesData/Panel.dta
+use /panel.dta
 
 *****************************************************
 ****** Generate, Rename, and Recode Variiables ******
-******************************************************
+*****************************************************
 gen casetype = dataset
 egen ds =max(dataset), by(dataset)
 recode ds 10=8 11=9 12=10 13=11 14=12 15=13 16=14
 by casetype, sort: gen case1 = _n==1
 gen caseU = casetype if case1==1
-* WEIRDNESS
-*list caseU dataset ds if caseU!=.
-*recode dataset 10=8 11=9
-*list caseU dataset ds if caseU!=.
 
 gen sd = ds==11
 gen num = 1
@@ -247,7 +243,7 @@ libIDvote ;
 *drop PI_8 mfPI_8 pdi_8 mfPI_2SD_8 PI_2SD_8 pdi_2SD_8 mfPI3_8
 *PI_9 mfPI_9 pdi_9 mfPI_2SD_9 PI_2SD_9 pdi_2SD_9 mfPI3_9 ;
 
-save "/Users/timothyhibbard/Desktop/Research/JudgesData/women judges/sd/Panel.dta", replace ;
+save "...", replace ;
 sort ds ;
 list dataset ds if caseU!=. ;
 drop dataset caseU case1 ;
