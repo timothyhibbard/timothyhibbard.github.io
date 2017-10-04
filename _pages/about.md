@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>233 S. Kedzie</p>
+    <p>Room 233 S. Kedzie</p>
     <p>Office Hours: Monday 2:30-4:30pm</p>
     <p> hibbard6@msu.edu</p>
 
