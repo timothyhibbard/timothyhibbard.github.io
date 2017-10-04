@@ -5,7 +5,7 @@ permalink: /projects/
 description: site under construction. projects forthcoming.
 ---
 
-<!--- {% for project in site.projects %}
+ {% for project in site.projects %}
 
 {% if project.redirect %}
 <div class="project">
@@ -45,4 +45,4 @@ description: site under construction. projects forthcoming.
 
 {% endif %}
 
-{% endfor %} --->
+{% endfor %}
