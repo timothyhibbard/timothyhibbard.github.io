@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Presence or Persuasion?
-description: The Effects of Persuasive Women in the Federal Judiciary
+description:
 img: /assets/img/gavel.jpg
 ---
 
