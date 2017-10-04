@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 1
-description: a project with a background image
+title: Presence or Persuasion?
+description: The Effects of Persuasive Women in the Federal Judiciary
 img: /assets/img/gavel.jpg
 ---
 
