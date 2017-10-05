@@ -16,6 +16,6 @@ news: false
 social: true
 ---
 
-My substantive research interests are concentrated around gender and minority politics in legislative and judicial settings. Methodolgically I am interested in linear and non-linear models, dimensional analysis and measurement theory. To view my working projects click [here](https://timothyhibbard.com/projects/).
+My substantive research interests are concentrated around gender and minority politics in legislative and judicial settings. Methodolgically I am interested in linear and non-linear models, dimensional analysis and measurement theory. To view my working projects click [here](/projects/).
 
 I earned my BS in Poltical Science at Boise state University as a [McNair Scholar](https://mcnairscholars.com/about/). Prior to my undergrad, I served five years on active duty in the United States Navy attached to to the USS Abraham Lincoln (CVN-72) for four years, and one year attached to a joint service command in Ramadi and Balad, Iraq.
