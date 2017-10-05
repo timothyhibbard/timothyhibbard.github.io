@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description:
+description: click the images to view the projects!
 ---
 
  {% for project in site.projects %}
