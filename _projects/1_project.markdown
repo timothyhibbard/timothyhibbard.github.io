@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Presence or Persuasion?
-description:
+description: The Effects of Persuasive Judges
 img: /assets/img/gavel.jpg
 ---
 
