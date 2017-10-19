@@ -1,6 +1,6 @@
 ---
 layout: page
-title: [Blog] Gender Cues
+title: Gender Cues (Blog)
 description: A Facebook Ad Experiment
 img: /assets/img/fb.png
 ---
