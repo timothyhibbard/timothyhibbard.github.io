@@ -2,7 +2,7 @@
 layout: page
 title: Facebook Ad Experiment
 description:
-img: /assets/img/bf.png
+img: /assets/img/fb.png
 ---
 
 Working with the Institute for Public Policy and Social Research (IPPSR) at Michigan State University, we conducted
