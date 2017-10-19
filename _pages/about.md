@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Timothy</strong>Hibbard
-description: <a href="">Ph.D. Student</a>. Department of Political Science</a>. Michigan State University
+description: <a href="">Ph.D. Student</a>. [Department of Political Science](http://polisci.msu.edu/people/timothy-hibbard/)</a>. Michigan State University
 
 profile:
   align: right
