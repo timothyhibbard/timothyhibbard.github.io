@@ -12,7 +12,12 @@ description: click the images to view the projects!
     <div class="thumbnail">
         <a href="{{ project.redirect }}" target="_blank">
         {% if project.img %}
-        <img class="thumbnail" src="{{ project.img | prepend: site.baseurl | prepend: site.url }}"/>
+        <div style="width:200px;height:200px;overflow:hidden;" >
+        <img src="{{ project.img | prepend: site.baseurl | prepend: site.url }}" width="200px" height="auto">
+        </div>
+        
+        %<img class="thumbnail" src="{{ project.img | prepend: site.baseurl | prepend: site.url }}"/>%
+        
         {% else %}
         <div class="thumbnail blankbox"></div>
         {% endif %}    
