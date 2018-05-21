@@ -2,7 +2,7 @@ setwd("~/Desktop/900")
 if (!require("pacman")) install.packages("pacman")
 pacman::p_load(reshape,foreign,dplyr)
 
-SD <- read.dta("~/Desktop/Research/JudgesData/Panel1.dta")
+SD <- read.dta("~/Panel1.dta")
 
 SD$ds <- as.numeric(SD$dataset)
 SD$ds[SD$ds == 10] <- 8
