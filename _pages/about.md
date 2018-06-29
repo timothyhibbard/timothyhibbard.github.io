@@ -15,6 +15,6 @@ news: false
 social: true
 ---
 
-I currenly work as a policy analyst at [IAC](http://idcounties.org/) where I conduct reseach and lobby on behalf of the counties interests to the State Legislature. Academically, my substantive research interests are concentrated around representation in legislative and judicial settings, and gender and minority politics. Methodolgically I am interested in linear and non-linear models, dimensional analysis and measurement theory. To view my working projects click [here](/projects/).
+I currenly work as a policy analyst at [IAC](http://idcounties.org/about/) where I conduct reseach and lobby on behalf of the counties interests to the State Legislature. Academically, my substantive research interests are concentrated around representation in legislative and judicial settings, and gender and minority politics. Methodolgically I am interested in linear and non-linear models, dimensional analysis and measurement theory. To view my working projects click [here](/projects/).
 
 I earned an MA at Michigan State University in the Department of Political Sceince. I did my undergraduate work at Boise State University where earned a BS in political science as a [McNair Scholar](https://mcnairscholars.com/about/). Prior to my undergrad, I served five years on active duty in the United States Navy attached to to the USS Abraham Lincoln (CVN-72) for four years, and one year attached to a joint service command in Ramadi and Balad, Iraq.
