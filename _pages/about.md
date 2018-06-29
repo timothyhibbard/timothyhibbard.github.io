@@ -4,7 +4,6 @@ permalink: /
 title: <strong>Timothy</strong>Hibbard
 description: <a href="">Policy Analyst</a>. Idaho Association of Counties (IAC) </a>. State of Idaho
 
-3100 S Vista Ave #200
 profile:
   align: right
   image: prof_pic.jpg
