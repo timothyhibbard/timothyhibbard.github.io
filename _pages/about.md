@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   address: >
     <p>3100 S. Vista Ave. Suite 200</p>
-    <p> hibbard6.msu@gmail.com</p>
+    <p> thibbard@idcounties.org</p>
 
 news: false
 social: true
