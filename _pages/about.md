@@ -9,7 +9,8 @@ profile:
   image: prof_pic.jpg
   address: >
     <p>3100 S. Vista Ave. Suite 200</p>
-    <p> thibbard@idcounties.org</p>
+    <p>thibbard@idcounties.org</p>
+    <p>(208) 514-0449</p>
 
 news: false
 social: true
