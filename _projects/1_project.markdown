@@ -5,6 +5,8 @@ description: Gender and Judicial Panel Effects
 img: /assets/img/gavel.jpg
 ---
 
+SEEKING CO-AUTHOR
+
 I am currently working on a project examining gendered panel effects on federal three-judge panels using a new measure of persuasion. In this project I show that:
 
 1. While the existence of gendered panel effects on sex discrimination cases are assumed, not all women judges influence men on a given panel equally.
