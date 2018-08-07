@@ -12,3 +12,5 @@ I am currently working on a project examining gendered panel effects on federal 
 3. Persuasion should be considered an important variable when analyzing judicial influence in the literature going forward.
 
 A downloadable PDF of a working draft can be found <a href="/assets/presence or persuasion.pdf">here</a>, and a poster overview can be found <a href="/assets/poster.pdf ">here</a>. You can download my latest .R (R) file <a href="/assets/panel.R ">here</a> and my .do (Stata) file <a href="/assets/data1.do">here</a>.
+
+After leaving graduate school, I have not had the time to finish and publish this work. I am seeking a co-author (let me know if you are interested) to finish the project and see it through the publishing process.
