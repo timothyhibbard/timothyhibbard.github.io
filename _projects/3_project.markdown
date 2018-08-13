@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PILT v Taxes
-description: Analzing the True Impact of PILT
+description: Analyzing the True Impact of PILT on Idaho Counties
 img: /assets/img/np.jpg
 ---
 
