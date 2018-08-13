@@ -2,7 +2,7 @@
 layout: page
 title: PILT v Taxes
 description: Analzing the True Impact of PILT
-img: /assets/img/fb.png
+img: /assets/img/np.jpg
 ---
 
 Every Year the federal government gives counties “[Payment in Lieu of Taxes](https://www.doi.gov/pilt)” (PILT) for the land 
