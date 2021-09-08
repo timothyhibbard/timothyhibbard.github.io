@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Property Tax Education Videos
+title: Property Tax Videos
 description: Property tax education videos for general audiences
 img: /assets/img/pt.jpg
 ---
