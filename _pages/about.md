@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Timothy</strong>Hibbard
-description: <a href="">Policy Analyst</a>. Idaho Association of Counties (IAC)</a>. State of Idaho
+description: <a href="">Policy Analyst</a>. Idaho Association of Counties (IAC)</a>.
 
 profile:
   align: right
