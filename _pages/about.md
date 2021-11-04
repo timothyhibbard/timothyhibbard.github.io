@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Timothy</strong>Hibbard
-description: <a href="">Budget & Policy Analyst</a>. Legislative Services Office (LSO)</a>. State of Idaho </a>.
+description: <a href="">Budget & Policy Analyst</a>. Legislative Services Office (LSO)</a>. State of Idaho</a>.
 
 
 profile:
