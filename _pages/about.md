@@ -17,7 +17,7 @@ news: false
 social: true
 ---
 
-I am the Chief Financial Officer at the [Office of the State Public Defender (SPD)](https://spd.idaho.gov/welcome-to-the-state-public-defender-office/) where I oversee the financial health of the agency.
+I am the Chief Financial Officer at the [Office of the State Public Defender (SPD)](https://spd.idaho.gov/welcome-to-the-state-public-defender-office/) where I oversee the statewide budget and finances of the agenct, including each of the institutional offices spread through the state. Where the state does not have institutional offices established, the state contracts with private firms and attorneys of which I also oversee the statewide budget and finances for. In tandem with the State Public Defender, I serve as an executive, judicial, and legislative branch liaison for communicating the office’s overall financial situation and needs.
 
 Prior to the SPD I worked as a senior budget & policy analyst at the Legislative Services Office [(LSO)](https://legislature.idaho.gov/lso/) of the Idaho Legislature where I was responsible for the budgets of the Judicial Branch, the Office of the Governor, the Office of the State Public Defender, the Attorney General's Office, the State Tax Commission, and was a resource on Idaho General Fund revenues, and property tax policy. I began my career in Idaho at the Idaho Association of counties [(IAC)](http://idcounties.org/about/) where I conducted data driven policy research on behalf of the 44 Idaho counties and their elected officials.
 
