@@ -2,16 +2,16 @@
 layout: about
 permalink: /
 title: <strong>Timothy</strong>Hibbard
-description: <a href="">Budget & Policy Analyst</a>. Legislative Services Office (LSO)</a>. State of Idaho</a>.
+description: <a href="">Chief Financial Officer</a>. Office of the State Public Defender (SPD)</a>. State of Idaho</a>.
 
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>700 W. Jefferson St.</p>
+    <p>322 E Front St. #590</p>
     <p>hibbard.timothy@gmail.com</p>
-    <p>(208) 332-1012</p>
+    <p>(208) 440-2533</p>
 
 news: false
 social: true
